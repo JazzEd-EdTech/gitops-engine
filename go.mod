@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/evanphx/json-patch v4.9.0+incompatible
-	github.com/go-logr/logr v0.4.0
+	github.com/go-logr/logr v1.4.1
 	github.com/golang/mock v1.5.0
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
@@ -15,7 +15,7 @@ require (
 	k8s.io/apimachinery v0.21.0
 	k8s.io/cli-runtime v0.21.0
 	k8s.io/client-go v0.21.0
-	k8s.io/klog/v2 v2.8.0
+	k8s.io/klog/v2 v2.120.0
 	k8s.io/kube-aggregator v0.21.0
 	k8s.io/kubectl v0.21.0
 	k8s.io/kubernetes v1.21.0
